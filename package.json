@@ -1,0 +1,25 @@
+{
+  "name": "vue2-jsx-esbuild",
+  "version": "1.0.0",
+  "description": "vue2 jsx for esbuild-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fathands/vue2-jsx-esbuild.git"
+  },
+  "keywords": [
+    "vue2",
+    "jsx",
+    "esbuild-loader",
+    "esbuild"
+  ],
+  "author": "aidenhuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fathands/vue2-jsx-esbuild/issues"
+  },
+  "homepage": "https://github.com/Fathands/vue2-jsx-esbuild#readme"
+}
