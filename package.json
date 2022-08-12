@@ -1,6 +1,6 @@
 {
   "name": "vue2-jsx-esbuild",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue2 jsx for esbuild-loader",
   "main": "index.js",
   "scripts": {
