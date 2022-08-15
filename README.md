@@ -35,7 +35,7 @@ in webpack plugins
 ```javascript
 plugins: [
   new webpack.ProvidePlugin({
-      vue2JsxEsbuild: "vue2-jsx-esbuild"
+      vue2JsxEsbuild: ["vue2-jsx-esbuild", "default"]
   })
 ]
 ```
