@@ -11,6 +11,9 @@ let xlinkRE = /^xlink([A-Z])/;
  * @returns
  */
 function groupProps(obj) {
+    if (!obj) {
+        return {}
+    }
     let currentNewPropObjects = Object.create(null);
     let props = [];
     Object.keys(obj).forEach(function (key) {
